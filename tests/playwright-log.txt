@@ -1,0 +1,179 @@
+{"level":30,"time":"2024-02-05T12:23:00.228Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Listening on 54743"}
+{"level":30,"time":"2024-02-05T12:23:00.597Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:00.598Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:00.602Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:00.602Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:00.613Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2024-02-05T12:23:01.440Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Adding browser to stack: chromium, version: 120.0.6099.28"}
+{"level":30,"time":"2024-02-05T12:23:01.442Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method newBrowser"}
+{"level":30,"time":"2024-02-05T12:23:01.441Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Adding 0 contexts to browser"}
+{"level":30,"time":"2024-02-05T12:23:01.450Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method newPage"}
+{"level":30,"time":"2024-02-05T12:23:01.450Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2024-02-05T12:23:01.466Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Changed active context"}
+{"level":30,"time":"2024-02-05T12:23:01.748Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Video path: undefined"}
+{"level":30,"time":"2024-02-05T12:23:01.748Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Changed active page"}
+{"level":30,"time":"2024-02-05T12:23:02.794Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method newPage"}
+{"level":30,"time":"2024-02-05T12:23:02.801Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-05T12:23:02.801Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=h1 >> text=Cuidado e diversão em cada passo in page."}
+{"level":30,"time":"2024-02-05T12:23:02.841Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-05T12:23:02.844Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-05T12:23:02.845Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=a[href=\"/signup\"] in page."}
+{"level":30,"time":"2024-02-05T12:23:02.934Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method click"}
+{"level":30,"time":"2024-02-05T12:23:02.937Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2024-02-05T12:23:02.937Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with form h1 in page."}
+{"level":30,"time":"2024-02-05T12:23:02.946Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2024-02-05T12:23:02.950Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getText"}
+{"level":30,"time":"2024-02-05T12:23:02.951Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with h1 in page."}
+{"level":30,"time":"2024-02-05T12:23:02.977Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved text for element h1 containing Faça seu cadastro"}
+{"level":30,"time":"2024-02-05T12:23:02.977Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getText"}
+{"level":30,"time":"2024-02-05T12:23:02.982Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-05T12:23:02.982Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=name] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.005Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-05T12:23:03.008Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-05T12:23:03.008Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=email] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.026Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-05T12:23:03.029Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-05T12:23:03.029Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=cpf] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.045Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-05T12:23:03.048Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-05T12:23:03.048Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=cep] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.062Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-05T12:23:03.065Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-05T12:23:03.065Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[type=button][value$=CEP] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.121Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method click"}
+{"level":30,"time":"2024-02-05T12:23:03.125Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.126Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.140Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.140Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.154Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.154Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.171Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.172Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.185Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.185Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.203Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.204Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.217Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.217Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.232Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.233Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.245Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.245Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.261Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.261Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.274Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.275Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.289Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.289Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.303Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.303Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.313Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.313Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.326Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.326Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.338Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.338Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.352Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.352Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.366Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.366Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.380Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.380Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.395Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.395Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.408Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.408Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.424Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.424Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.436Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.436Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.445Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.445Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.458Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.458Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.473Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.473Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.486Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.486Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.502Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.502Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.515Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.515Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.531Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.531Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.543Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.543Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.550Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.550Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.562Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.563Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.570Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.570Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.582Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.582Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.589Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.589Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.601Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.601Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.610Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.610Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.622Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.622Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.629Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.629Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.640Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.641Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.648Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing "}
+{"level":30,"time":"2024-02-05T12:23:03.648Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.661Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.661Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressStreet] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.675Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressStreet] containing Rua Joaquim Floriano"}
+{"level":30,"time":"2024-02-05T12:23:03.675Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.680Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.680Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressDistrict] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.691Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressDistrict] containing Itaim Bibi"}
+{"level":30,"time":"2024-02-05T12:23:03.691Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.694Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.694Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressCityUf] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.706Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Retrieved dom property for element css=input[name=addressCityUf] containing São Paulo/SP"}
+{"level":30,"time":"2024-02-05T12:23:03.706Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getDomProperty"}
+{"level":30,"time":"2024-02-05T12:23:03.709Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressNumber] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.709Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-05T12:23:03.736Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-05T12:23:03.740Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method fillText"}
+{"level":30,"time":"2024-02-05T12:23:03.740Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[name=addressDetails] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.758Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method fillText"}
+{"level":30,"time":"2024-02-05T12:23:03.762Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=input[type=file] in page."}
+{"level":30,"time":"2024-02-05T12:23:03.786Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method click"}
+{"level":30,"time":"2024-02-05T12:23:03.786Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Strict mode is enabled, find Locator with css=.button-register in page."}
+{"level":30,"time":"2024-02-05T12:23:03.836Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method click"}
+{"level":30,"time":"2024-02-05T12:23:03.839Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2024-02-05T12:23:03.840Z","pid":6692,"hostname":"JEHRAUER_DELL","Take screenshot with options: ":{"path":"C:\\QAx\\Project\\walkdog-robot\\tests\\browser\\screenshot\\robotframework-browser-screenshot-1.png","fileType":"png","fullPage":true,"timeout":10000,"omitBackground":false}}
+{"level":30,"time":"2024-02-05T12:23:04.171Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2024-02-05T12:23:04.179Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:04.183Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:04.185Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:04.189Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:04.192Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Changed active context"}
+{"level":30,"time":"2024-02-05T12:23:04.192Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Changing current active page: page=ba8f5a79-2672-4f5b-9eac-9ea3ac0195fa"}
+{"level":30,"time":"2024-02-05T12:23:04.192Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Changed active page"}
+{"level":30,"time":"2024-02-05T12:23:04.197Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:04.200Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:04.203Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-05T12:23:04.204Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-05T12:23:04.207Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2024-02-05T12:23:04.208Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2024-02-05T12:23:04.211Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Changing current active page: page=ba8f5a79-2672-4f5b-9eac-9ea3ac0195fa"}
+{"level":30,"time":"2024-02-05T12:23:04.211Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Changed active page"}
+{"level":30,"time":"2024-02-05T12:23:04.216Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:04.218Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:04.220Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Changed active context"}
+{"level":30,"time":"2024-02-05T12:23:04.220Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Changing current active page: page=ba8f5a79-2672-4f5b-9eac-9ea3ac0195fa"}
+{"level":30,"time":"2024-02-05T12:23:04.220Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Changed active page"}
+{"level":30,"time":"2024-02-05T12:23:04.222Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method closeContext"}
+{"level":30,"time":"2024-02-05T12:23:04.241Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Removed page=c07fc9c3-33e4-4099-98a1-39d558dfbb24 from context=63a62a12-04e4-4e6f-8b00-32ebac0ab912 page stack"}
+{"level":30,"time":"2024-02-05T12:23:04.255Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method closeContext"}
+{"level":30,"time":"2024-02-05T12:23:04.260Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:04.260Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2024-02-05T12:23:04.307Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2024-02-05T12:23:04.460Z","pid":6692,"hostname":"JEHRAUER_DELL","msg":"End of node method closeAllBrowsers"}
